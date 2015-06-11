@@ -12,7 +12,7 @@ npm install -g typescript@^1.5.0-beta
 npm install -g http-server
 ```
 
-### run quickstart
+### run
 
 dir angular2
 
